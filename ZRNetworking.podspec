@@ -10,5 +10,5 @@ s.source       = { :git => "https://github.com/ZRRyan/ZRNetworking.git", :tag =>
 s.source_files  = "ZRNetworking/*"
 s.requires_arc = true
 s.framework = 'UIKit'
-s.dependency = 'AFNetworking'
+s.dependency 'AFNetworking'
 end
